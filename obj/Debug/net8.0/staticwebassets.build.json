@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5ylpMkkWHO3xcLJ0TmvMcXUqRaTf+znAOPf3uWqGA2A=",
+  "Source": "ResilientMonolithApp",
+  "BasePath": "_content/ResilientMonolithApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
