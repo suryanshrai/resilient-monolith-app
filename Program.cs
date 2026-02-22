@@ -10,7 +10,7 @@ var connectionString =
     ?? Environment.GetEnvironmentVariable("ConnectionStrings__DefaultConnection");
 
 // Root endpoint
-app.MapGet("/", () => "Resilient Monolith is running successfully!");
+app.MapGet("/", () => "Resilient Monolith CI/CD Pipeline Working!");
 
 app.MapGet("/health", () => Results.Ok(new { status = "Healthy" }));
 
